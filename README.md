@@ -8,5 +8,6 @@ Available in: :earth_americas: https://rayanneAndrade.github.io/
 ## Languages
 - HTML5
 - CSS3
+- JavaScript
 
 
